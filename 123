@@ -18,7 +18,7 @@ do
 
 	Library = {
 		Accent = Color3.fromRGB(255, 30, 230);
-		Inline = Color3.fromRGB(31, 28, 54);
+		Inline = Color3.fromRGB(20, 20, 20);
 		Background = Color3.fromRGB(20, 20, 20);
 		Text = Color3.fromRGB(117,146,230);
 		TextInactive = Color3.fromRGB(135,135,135);
